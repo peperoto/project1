@@ -290,7 +290,7 @@ with open('data.txt') as lineas:
 
 
 
-        x = [item_id_enero, total_visits_enero, total_visits_febrero, total_visits_marzo, total_visits_abril, total_visits_mayo, total_visits_junio, total_visits_julio, total_visits_julio, total_visits_agosto, total_visits_septiembre, total_visits_octubre, total_visits_noviembre, total_visits_diciembre]
+        x = [item_id_enero, total_visits_enero, total_visits_febrero, total_visits_marzo, total_visits_abril, total_visits_mayo, total_visits_junio, total_visits_julio, total_visits_agosto, total_visits_septiembre, total_visits_octubre, total_visits_noviembre, total_visits_diciembre]
 
         datos.insert(0, x)
 
